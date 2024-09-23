@@ -1,3 +1,4 @@
 # Wajahat-coder
-This is my firest Git repository
-Author - Wajaha Coder
+This is my firest Git repository.
+<br>
+Author - Wajahat Coder
